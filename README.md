@@ -1,4 +1,8 @@
-### Hi there 👋
+### Sam's ReadMe
+
+I do physics, and sometimes that requires coding. A lot of the stuff I work on isn't in public repos, sorry about that.
+
+Have a swell day!
 
 <!--
 **samhile/samhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
